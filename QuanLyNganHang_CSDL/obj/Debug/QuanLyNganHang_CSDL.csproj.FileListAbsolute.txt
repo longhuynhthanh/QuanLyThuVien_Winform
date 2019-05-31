@@ -1,0 +1,2 @@
+D:\C#\QuanLyNganHang_CSDL\QuanLyNganHang_CSDL\bin\Debug\QuanLyNganHang_CSDL.exe.config
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\bin\Debug\QuanLyNganHang_CSDL.exe.config

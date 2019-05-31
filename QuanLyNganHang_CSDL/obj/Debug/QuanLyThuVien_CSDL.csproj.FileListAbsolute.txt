@@ -1,0 +1,12 @@
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\bin\Debug\QuanLyNganHang_CSDL.exe.config
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\bin\Debug\QuanLyNganHang_CSDL.exe
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\bin\Debug\QuanLyNganHang_CSDL.pdb
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.Form1.resources
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyNganHang_CSDL.Properties.Resources.resources
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.csproj.GenerateResource.Cache
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyNganHang_CSDL.exe
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyNganHang_CSDL.pdb
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.InsertBook.resources
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.DeleteBook.resources
+D:\C#\QuanLyThuVien_CSDL\QuanLyNganHang_CSDL\obj\Debug\QuanLyThuVien_CSDL.UpdateBook.resources
